@@ -4,6 +4,8 @@
 
 I'm Lucas Stivenson, a Software Development student at IFSul Sapucaia. I'm passionate about technology, especially backend development, and I'm always looking to learn and grow.
 
+---
+
 ### 🛠️ Skills
 
 <p align="left">
@@ -51,6 +53,7 @@ I'm Lucas Stivenson, a Software Development student at IFSul Sapucaia. I'm passi
   </a>
 </p>
 
+---
 
 ### 🌐 Socials
 
@@ -63,6 +66,8 @@ I'm Lucas Stivenson, a Software Development student at IFSul Sapucaia. I'm passi
     </picture>
   </a>
 </p>
+
+---
 
 ### 📈 GitHub Stats
 
