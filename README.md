@@ -8,7 +8,7 @@ I'm Lucas Stivenson, a Software Development student at IFSul Sapucaia. I'm passi
 
 ### 🛠️ Skills
 
-<p align="left">
+<p align="left" style="display: flex; gap: 10px; flex-wrap: nowrap; align-items: center;">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
